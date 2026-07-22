@@ -25,9 +25,9 @@ This project is an end-to-end Machine Learning application that predicts the fin
 * Banking-inspired user interface
 
 **Risk Score Categories**
-- Below 40 - Low Risk
-- 40 – 65	Moderate Risk
-- Above 7-	High Risk
+- Below 35 - Low Risk
+- 35 – 65	Moderate Risk
+- Above 65-	High Risk
 
 **Machine Learning Workflow**
 * Data Cleaning
