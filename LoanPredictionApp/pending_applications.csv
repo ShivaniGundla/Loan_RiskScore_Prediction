@@ -1,3 +1,0 @@
-LoanID,Status,Age,CreditScore,EmploymentStatus,EducationLevel,Experience,LoanAmount,LoanDuration,MaritalStatus,NumberOfDependents,HomeOwnershipStatus,MonthlyDebtPayments,CreditCardUtilizationRate,NumberOfOpenCreditLines,NumberOfCreditInquiries,DebtToIncomeRatio,BankruptcyHistory,LoanPurpose,PreviousLoanDefaults,PaymentHistory,LengthOfCreditHistory,SavingsAccountBalance,CheckingAccountBalance,MonthlyIncome,UtilityBillsPaymentHistory,JobTenure,CalculatedNetWorth
-L1,Pending,25,,,,,500000.0,36.0,Single,,,,,,,,,,,,,,,50000.0,,,
-L2,Pending,37,,Self-Employed,Associate,,,,Married,5.0,,,,,,,,,,,,,,30000.0,,,
