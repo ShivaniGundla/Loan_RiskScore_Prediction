@@ -3,7 +3,17 @@
 
 This project is an end-to-end Machine Learning application that predicts the financial risk score of loan applicants. It is designed for bank employees to assess loan applications through a secure and user-friendly Streamlit web application.
 
-**Features**
+**Machine Learning**
+* Data cleaning and preprocessing
+* Feature engineering
+* Exploratory Data Analysis (EDA)
+* Robust Scaling and Ordinal Encoding
+* Random Forest Regression model
+* Hyperparameter tuning using RandomizedSearchCV
+* Model evaluation using R² Score
+* Model serialization using Joblib
+
+**Application Features**
 * Employee login authentication
 * Create new loan applications
 * Save applications as pending
