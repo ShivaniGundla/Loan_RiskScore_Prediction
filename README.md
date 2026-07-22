@@ -20,18 +20,19 @@ This project is an end-to-end Machine Learning application that predicts the fin
 - Above 7-	High Risk
 
 **Machine Learning Workflow**
-Data Cleaning
-Feature Engineering
-Exploratory Data Analysis (EDA)
-Robust Scaling
-Ordinal Encoding
-Random Forest Regression
-Hyperparameter Tuning using RandomizedSearchCV
+* Data Cleaning
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Robust Scaling
+* Ordinal Encoding
+* Random Forest Regression
+* Hyperparameter Tuning using RandomizedSearchCV
 
 **Libraries Used**
-Python
-Pandas
-NumPy
-Scikit-learn
-Streamlit
-Joblib
+* Python
+* Pandas
+* NumPy
+* Matplotlib & Seaborn
+* Scikit-learn
+* Streamlit
+* Joblib
